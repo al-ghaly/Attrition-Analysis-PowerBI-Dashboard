@@ -8,8 +8,7 @@ This project, undertaken as part of the Microsoft Power BI course at the Informa
 
 ![Screenshot (44)](https://github.com/al-ghaly/Attrition-Analysis-PowerBI-Dashboard/assets/61648960/0e4c1ee0-9b3b-4284-bb05-25bd23498456)
 
-
-![Screenshot (41)](https://github.com/al-ghaly/Attrition-Analysis-PowerBI-Dashboard/assets/61648960/518d5493-284d-4ee8-b0fc-3dd35c07ef6a)
+![Screenshot (46)](https://github.com/al-ghaly/Attrition-Analysis-PowerBI-Dashboard/assets/61648960/7c770a50-3dbd-4d4f-9a29-d5f9d9d05dac)
 
 ![Screenshot (47)](https://github.com/al-ghaly/Attrition-Analysis-PowerBI-Dashboard/assets/61648960/50990fd6-9a6d-4d00-b76b-2e251898d158)
 
